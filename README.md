@@ -27,7 +27,9 @@ ainly for teachers and indirectly for commercial and financial economists.
 
 ## Screenshots
 
-<img src="/CultureGame/Screenshots/OptionsMenu.jpg?raw=true" alt="OptionsMenu" width="720" height="480"/> <img src="/CultureGame/Screenshots/VirtualAssistant.jpg?raw=true" alt="VirtualAssistant" width="720" height="480"/>
+<img src="/CultureGame/Screenshots/MainMenu.jpg?raw=true" alt="MainMenu" width="480" height="270"/> <img src="/CultureGame/Screenshots/OptionsMenu.jpg?raw=true" alt="OptionsMenu" width="480" height="270"/> 
+
+<img src="/CultureGame/Screenshots/VirtualAssistant.jpg?raw=true" alt="VirtualAssistant" width="480" height="270"/> <img src="/CultureGame/Screenshots/InteractiveExhibit.jpg?raw=true" alt="InteractiveExhibit" width="480" height="270"/>
 
 ---
 

@@ -25,6 +25,12 @@ ainly for teachers and indirectly for commercial and financial economists.
 
 ---
 
+## Screenshots
+
+<img src="/CultureGame/Screenshots/OptionsMenu.jpg?raw=true" alt="OptionsMenu" width="720" height="480"/> <img src="/CultureGame/Screenshots/VirtualAssistant.jpg?raw=true" alt="VirtualAssistant" width="720" height="480"/>
+
+---
+
 ## How To Run
 
 1. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:

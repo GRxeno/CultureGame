@@ -42249,7 +42249,6 @@ MonoBehaviour:
   input: {fileID: 2013655417}
   click: {fileID: 1012543463}
   hover: {fileID: 1306962455}
-  loli: {fileID: 775855405}
   canvas: {fileID: 1674095474}
   intro_dialogue:
     exhibit_name: 

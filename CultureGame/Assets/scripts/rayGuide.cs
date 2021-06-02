@@ -9,7 +9,7 @@ public class rayGuide : MonoBehaviour
     
     public GameObject click;
     public GameObject hover;
-    public GameObject loli;
+    //public GameObject soundEffect;
     public GameObject canvas;
     
     public Dialogue intro_dialogue;
@@ -47,7 +47,7 @@ public class rayGuide : MonoBehaviour
                     if (Input.GetButtonDown("Fire1") && !isPop)
                     {
                         //Debug.Log(objectHit.name);
-                        loli.GetComponent<AudioSource>().Play();
+                        //soundEffect.GetComponent<AudioSource>().Play();
                         canvas.SetActive(true);
                         if (dialogue_num == -1)
                         {
